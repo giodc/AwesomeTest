@@ -1,6 +1,6 @@
 <?php
 /**
- * Main template.
+ * Main template. test
  *
  * @package Awesome_Test
  */
